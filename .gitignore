@@ -1,0 +1,4 @@
+.env
+stackline_sales.csv
+stackline_sales_old.csv
+*.csv
